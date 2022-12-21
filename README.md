@@ -5,8 +5,9 @@
 ## What I'm up to...
 
 - 🔨 Visit my [Portfolio Website](https://alonesolutions.ca/portfolio)!
-- 🥇  Summer Company 2022 Grant Recipient for [Green Gizmos](https://greengizmos.ca/)
+- 🥇 Summer Company 2022 Grant Recipient for [Green Gizmos](https://greengizmos.ca/)
 - 🤫 Created Anonymous social media platform [Spill The Tea](coderpr0grammer)!
+- 🤖 Built an [AI chatbot](https://dani-ai.vercel.app/) using the OpenAI API!
 - 👾 Developed a [Free Add to Cart Plugin for 3D models in Woocommerce](https://github.com/coderpr0grammer/woocommerce-functionality-for-3dPrint-Lite-V1.8.9.5).
 
 ### **📲 Connect With Me!**
