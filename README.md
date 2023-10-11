@@ -5,9 +5,9 @@ I'm a guy who loves to explore the unfamiliar to find new solutions to everyday 
   
 ![](https://komarev.com/ghpvc/?username=coderpr0grammer)
 ## What I'm up to...
-- 🔨 Builing an anonymous social media app for mobile (coming soon!)
+- 🔨 Building an anonymous social media app for mobile (coming soon!)
   
-- <img src="https://gorg.app/wp-content/uploads/2023/02/cropped-gorg-app-axie-icon-dark-192x192.png" width="16"/> Built [Gorg], an AI-powered mental health app for iOS
+- <img src="https://gorg.app/wp-content/uploads/2023/02/cropped-gorg-app-axie-icon-dark-192x192.png" width="16"/> Built [Gorg](https://gorg.app), an AI-powered mental health app for iOS
   
 - <img src="https://hypersearch.alonesolutions.ca/wp-content/uploads/2023/09/cropped-cropped-HyperSearch-Logo-official-2-32x32.png" width="16" /> Built [HyperSearch](https://bit.ly/hyperai), a tool for Youtube that lets users search for relevant clips using Machine Learning, rather than basic keyword search!
   
