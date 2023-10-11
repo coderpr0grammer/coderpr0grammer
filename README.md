@@ -1,26 +1,39 @@
-## Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"> I'm Daniel Martinez!
+## Hey 👋  I'm Daniel Martinez! 
+
+I'm a guy who loves to explore the unfamiliar to find new solutions to everyday problems.
 <p align="center">
   
 ![](https://komarev.com/ghpvc/?username=coderpr0grammer)
 ## What I'm up to...
+- 🔨 Builing an anonymous social media app for mobile (coming soon!)
+  
+- <img src="https://gorg.app/wp-content/uploads/2023/02/cropped-gorg-app-axie-icon-dark-192x192.png" width="16"/> Built [Gorg], an AI-powered mental health app for iOS
+  
+- <img src="https://hypersearch.alonesolutions.ca/wp-content/uploads/2023/09/cropped-cropped-HyperSearch-Logo-official-2-32x32.png" width="16" /> Built [HyperSearch](https://bit.ly/hyperai), a tool for Youtube that lets users search for relevant clips using Machine Learning, rather than basic keyword search!
+  
+- <img src="https://ingeniousplus.ca/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-32x32.png" width="16"/> Won the [Ingenious+ Innovation award](https://www.linkedin.com/posts/danielmartinezdev_innovation-youth-tech-activity-7075233869465059328-GdWK?utm_source=share&utm_medium=member_desktop) for building [GradeAssist](https://gradeassist.alonesolutions.ca/), a Generative AI-powered tool for teachers to assess written student works
+  
+- <img src="https://i0.wp.com/greengizmos.ca/wp-content/uploads/2022/12/cropped-green-gizmos-tree.webp?fit=32%2C32&ssl=1" width="16"/> Gave a [Keynote talk](https://www.linkedin.com/posts/danielmartinezdev_im-honoured-to-have-had-the-opportunity-activity-7070222632570273792-EaMl?utm_source=share) about my experience in the Summer Company program at Niagara University
+
+## Other Stuff
 
 - 🔨 Visit my [Portfolio Website](https://alonesolutions.ca/portfolio)!
 - 🥇 Summer Company 2022 Grant Recipient for [Green Gizmos](https://greengizmos.ca/)
-- 🤫 Created Anonymous social media platform [Spill The Tea](coderpr0grammer)!
-- 🤖 Built an [AI chatbot](https://dani-ai.vercel.app/) using the OpenAI API!
+- 🤫 Created Anonymous social media platform [Spill The Tea](coderpr0grammer)
 - 👾 Developed a [Free Add to Cart Plugin for 3D models in Woocommerce](https://github.com/coderpr0grammer/woocommerce-functionality-for-3dPrint-Lite-V1.8.9.5).
 
-### **📲 Connect With Me!**
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/danielmartinezdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danielmartinezdev" height="30" width="40" /></a>
-<a href="https://instagram.com/danielm_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielm_programmer" height="30" width="40" /></a>
-  <a href="https://twitter.com/coderpr0grammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderpr0grammer" height="30" width="40" /></a>
-  <a href="https://codepen.io/coderpr0grammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="coderpr0grammer" height="30" width="40" /></a>
-</p>
+## Connect with me
+<div align="left" style="display: flex; gap: 10; justify-content: center;">
+<a href="https://linkedin.com/in/www.linkedin.com/in/danielmartinezdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danielmartinezdev" height="30" width="40"/></a>
+<a href="https://instagram.com/danielmartinezdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielm_programmer" height="30" width="40"/></a>
+  <a href="https://twitter.com/coderpr0grammer" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="coderpr0grammer" height="40"/></a>
+   
+</div>
 
-## Tech Stack:
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -35,7 +48,7 @@
   
 
   
-## My GitHub Stats:
+## My GitHub Stats
 
 
 <p align="center">
