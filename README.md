@@ -6,12 +6,12 @@ I'm a guy who loves to explore the unfamiliar to find new solutions to everyday 
 ![](https://komarev.com/ghpvc/?username=coderpr0grammer)
 ## What I'm up to...
 - 🔨 Building an anonymous social media app for mobile (coming soon!)
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="16"/> Won the [Ingenious+ Innovation award](https://www.linkedin.com/posts/danielmartinezdev_innovation-youth-tech-activity-7075233869465059328-GdWK?utm_source=share&utm_medium=member_desktop) for building [GradeAssist](https://gradeassist.alonesolutions.ca/), (backed by Microsoft) a Generative AI-powered tool for teachers to assess written student works
   
 - <img src="https://gorg.app/wp-content/uploads/2023/02/cropped-gorg-app-axie-icon-dark-192x192.png" width="16"/> Built [Gorg](https://gorg.app), an AI-powered mental health app for iOS
   
 - <img src="https://hypersearch.alonesolutions.ca/wp-content/uploads/2023/09/cropped-cropped-HyperSearch-Logo-official-2-32x32.png" width="16" /> Built [HyperSearch](https://bit.ly/hyperai), a tool for Youtube that lets users search for relevant clips using Machine Learning, rather than basic keyword search!
-  
-- <img src="https://ingeniousplus.ca/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-32x32.png" width="16"/> Won the [Ingenious+ Innovation award](https://www.linkedin.com/posts/danielmartinezdev_innovation-youth-tech-activity-7075233869465059328-GdWK?utm_source=share&utm_medium=member_desktop) for building [GradeAssist](https://gradeassist.alonesolutions.ca/), a Generative AI-powered tool for teachers to assess written student works
   
 - <img src="https://i0.wp.com/greengizmos.ca/wp-content/uploads/2022/12/cropped-green-gizmos-tree.webp?fit=32%2C32&ssl=1" width="16"/> Gave a [Keynote talk](https://www.linkedin.com/posts/danielmartinezdev_im-honoured-to-have-had-the-opportunity-activity-7070222632570273792-EaMl?utm_source=share) about my experience in the Summer Company program at Niagara University
 
