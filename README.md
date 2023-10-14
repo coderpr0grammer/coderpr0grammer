@@ -1,6 +1,7 @@
 ## Hey 👋  I'm Daniel Martinez! 
 
-I'm a guy who loves to explore the unfamiliar to find new solutions to everyday problems.
+I'm a guy who loves to explore the unfamiliar to find new solutions to everyday problems.<br>
+Take a look at my resume [here.](https://res.itsmartinez.com)
 <p align="center">
   
 ![](https://komarev.com/ghpvc/?username=coderpr0grammer)
