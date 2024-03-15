@@ -1,6 +1,6 @@
 ## Hey 👋  I'm Daniel Martinez! 
 
-I'm a guy who loves to explore the unfamiliar to find new solutions to everyday problems.<br>
+I build software with the goal of solving problems that leave lasting impact on the world.<br>
 Take a look at my resume [here.](https://res.itsmartinez.com)
 <p align="center">
   
