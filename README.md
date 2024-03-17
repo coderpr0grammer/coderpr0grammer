@@ -10,17 +10,17 @@ Take a look at my resume [here.](https://res.itsmartinez.com)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="16"/> Won the [Ingenious+ Innovation award](https://www.linkedin.com/posts/danielmartinezdev_innovation-youth-tech-activity-7075233869465059328-GdWK?utm_source=share&utm_medium=member_desktop) for building [GradeAssist](https://gradeassist.alonesolutions.ca/), (backed by Microsoft) a Generative AI-powered tool for teachers to assess written student works
   
-- <img src="https://gorg.app/wp-content/uploads/2023/02/cropped-gorg-app-axie-icon-dark-192x192.png" width="16"/> Built [Gorg](https://gorg.app), an AI-powered mental health app for iOS
+- <img src="https://gorg.app/favicon.ico" width="16"/> Built [Gorg](https://gorg.app), an AI-powered mental health app for iOS
   
-- <img src="https://hypersearch.alonesolutions.ca/wp-content/uploads/2023/09/cropped-cropped-HyperSearch-Logo-official-2-32x32.png" width="16" /> Built [HyperSearch](https://bit.ly/hyperai), a tool for Youtube that lets users search for relevant clips using Machine Learning, rather than basic keyword search!
+- <img src="https://lh3.googleusercontent.com/TEYoUDKDS2A-UqDJOYqCfzj52ieo3lka2QwtDvTbdmXnaMpkjlmnS5578QYa0_ocwHJbRPQxHGoDcCGKzOv2ztlg7g=s60" width="16" /> Built [HyperSearch](https://bit.ly/hyperai), a tool for Youtube that lets users search for relevant clips using Machine Learning, rather than basic keyword search!
   
-- <img src="https://i0.wp.com/greengizmos.ca/wp-content/uploads/2022/12/cropped-green-gizmos-tree.webp?fit=32%2C32&ssl=1" width="16"/> Gave a [Keynote talk](https://www.linkedin.com/posts/danielmartinezdev_im-honoured-to-have-had-the-opportunity-activity-7070222632570273792-EaMl?utm_source=share) about my experience in the Summer Company program at Niagara University
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiVJ_w8MFK-usFZXdwLdT_twWsHlC0H8gcA&usqp=CAU" width="16"/> Gave a [Keynote talk](https://www.linkedin.com/posts/danielmartinezdev_im-honoured-to-have-had-the-opportunity-activity-7070222632570273792-EaMl?utm_source=share) about my experience in the Summer Company program at Niagara University
 
 ## Other Stuff
 
-- 🔨 Visit my [Portfolio Website](https://alonesolutions.ca/portfolio)!
-- 🥇 Summer Company 2022 Grant Recipient for [Green Gizmos](https://greengizmos.ca/)
-- 🤫 Created Anonymous social media platform [Spill The Tea](coderpr0grammer)
+- 🔨 Visit my [Portfolio Website](https://itsmartinez.com)
+- 🥇 Summer Company 2022 Grant Recipient for [Green Gizmos](https://instagram.com/greengizmos.ca)
+- 🤫 Built anonymous social media platform [Spill The Tea]()
 - 👾 Developed a [Free Add to Cart Plugin for 3D models in Woocommerce](https://github.com/coderpr0grammer/woocommerce-functionality-for-3dPrint-Lite-V1.8.9.5).
 
 ## Connect with me
