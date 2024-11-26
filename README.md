@@ -8,7 +8,7 @@ Take a look at my resume [here.](https://res.itsmartinez.com)
 ## What I'm up to...
 - 🔨 Building an anonymous social media app for mobile (coming soon!)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="16"/> Won the [Ingenious+ Innovation award](https://www.linkedin.com/posts/danielmartinezdev_innovation-youth-tech-activity-7075233869465059328-GdWK?utm_source=share&utm_medium=member_desktop) for building [GradeAssist](https://gradeassist.tech/), the Scantron for Essays (backed by Microsoft)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="16"/> Won the [Ingenious+ Innovation award](https://www.linkedin.com/posts/danielmartinezdev_innovation-youth-tech-activity-7075233869465059328-GdWK?utm_source=share&utm_medium=member_desktop) for building [GradeAssist](https://gradeassist.ca/), the Scantron for Essays (backed by Microsoft)
   
 - <img src="https://gorg.app/favicon.ico" width="16"/> Built [Gorg](https://gorg.app), an AI-powered mental health app for iOS
   
